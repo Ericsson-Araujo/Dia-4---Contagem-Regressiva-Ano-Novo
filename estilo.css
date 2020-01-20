@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+
+#contagem {
+    margin: 9vh 0;
+    font: 9vh Georgia, Lucida, Monospace;
+    background-image: linear-gradient(lightblue, whitesmoke);    
+    -webkit-background-clip: text;
+    background-clip: text;
+    
+    color: transparent;
+    text-align: center;
+    
+}
